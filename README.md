@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### 👀 Profile Visitors
 ![](https://komarev.com/ghpvc/?username=dinesh10123&label=Profile%20Views&color=blue&style=for-the-badge)
+
 🔭 I’m currently working on **Full Stack Projects using React and Spring Boot**<br><br>👯 I’m looking to collaborate on **Java Full Stack and Open Source Projects**<br><br>🤝 I’m looking for help with **Advanced Spring Boot, Microservices, and System Design**<br><br>🌱 I’m currently learning **Java Full Stack Development (Spring Boot, React, MySQL)**<br><br>💬 Ask me about **Java, Spring Boot, React, SQL, HTML, CSS, JavaScript**<br><br>⚡ Fun fact **I enjoy building real-world applications and solving coding problems**<br>
 
 
@@ -20,7 +21,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dinesh10123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=dinesh10123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
